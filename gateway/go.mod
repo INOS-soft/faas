@@ -3,7 +3,7 @@ module github.com/openfaas/faas/gateway
 go 1.15
 
 require (
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/gorilla/mux v1.8.0
 	github.com/nats-io/jwt v1.2.2 // indirect
 	github.com/nats-io/nats-streaming-server v0.20.0 // indirect
